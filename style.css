@@ -1,0 +1,70 @@
+.page {
+    display: none;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .page.active {
+    display: block;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image:
+    url(angel-warrior-anime-girl-sword-8k-wallpaper-uhdpaper.com-731@3@a.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: #ff0606;
+    text-align: center;
+  }
+  
+  header, footer {
+    padding: 10px;
+  }
+  
+  h1, p {
+    margin: 0;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: #ff5722;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  button:hover {
+    transform: scale(1.1);
+  }
+  .social-media {
+    margin: 20px 0;
+  }
+  
+  .social-link {
+    margin: 0 10px;
+    display: inline-block;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .social-link img {
+    width: 48px;
+    height: 48px;
+  }
+  
+  .social-link:hover {
+    transform: scale(1.2);
+  }
+ 
+ 
